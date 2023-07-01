@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PlayStream**
 
-- 🌱 I’m currently learning **JavaScript, REACT**
+- 🌱 I’m currently learning **FLutter**
 
 - 💬 Ask me about **react**
 
