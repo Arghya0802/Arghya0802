@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src= https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya0802&label=Profile%20views&color=0e75b6&style=flat" alt="arghya0802" /> </p>
 
-- 🔭 I’m currently working on **PlayStream**
+- 🔭 I’m currently working on **Flutter Apps**
 
 - 🌱 I’m currently learning **FLutter**
 
