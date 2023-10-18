@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chatterjeearghya02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wdR0MuXZkQfWz8ObU2kaU7oUBY84ZrDM/view?usp=drive_link](https://drive.google.com/file/d/1wdR0MuXZkQfWz8ObU2kaU7oUBY84ZrDM/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lA-v8mbqbDQF3CiZh8pnMtKwe_u67EO4/view]
 
 
 - ⚡ Fun fact **You know me right??**
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arghya-chatterjee-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya chatterjee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chatterjeearghya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chatterjeearghya02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Arghya_0802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chatterjeearghya02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
