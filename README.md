@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **You know me right??**
 <h3 align="left">LeetCode:</h3>
-  <a href="https://leetcode.com/chatterjeearghya02/">
+  <a href="https://leetcode.com/Arghya_0802/">
   <img src="https://leetcard.jacoblin.cool/chatterjeearghya02?ext=contest&theme=light,unicorn" alt="Leetcode Stats">
   </a>
   
