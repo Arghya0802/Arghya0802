@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arghya Chatterjee</h1>
-<h3 align="center">A passionate Backend and App Developer </h3>
+<h3 align="center">A passionate Backend Developer </h3>
 <img align="right" alt="Coding" width="400" src= https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya0802&label=Profile%20views&color=0e75b6&style=flat" alt="arghya0802" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
-- 💬 Ask me about **Backend Development, Flutter & Dart**
+- 💬 Ask me about **Data Structures and Algorithm, Backend Development**
 
 - 📫 How to reach me **chatterjeearghya02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lA-v8mbqbDQF3CiZh8pnMtKwe_u67EO4/view]
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1lA-v8mbqbDQF3CiZh8pnMtKwe_u67EO4/view" target = "_blank"> My Resume</a>
 
 
 - ⚡ Fun fact **You know me right??**
@@ -53,12 +53,12 @@
   <!-- JavaScript Icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+<!--   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> -->
   
   </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
